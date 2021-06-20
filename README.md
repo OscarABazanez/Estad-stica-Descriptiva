@@ -1,1 +1,1 @@
-# Estad-stica-Descriptiva
+# Estadistica-Descriptiva
